@@ -1,0 +1,2 @@
+include ':app',':m3u8library'
+rootProject.name='M3u8CacheManager'
